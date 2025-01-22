@@ -1,4 +1,4 @@
-<b>Wprowadzenie</b>
+Wprowadzenie
 
 Zadanie polegało na testowaniu podstawowych funkcji GitHub, w tym:
     Tworzenie Pull Request,
@@ -7,20 +7,20 @@ Zadanie polegało na testowaniu podstawowych funkcji GitHub, w tym:
 
 Opis działań
 
-    <i>Utworzenie nowego repozytorium na GitHub.
+    Utworzenie nowego repozytorium na GitHub.
     Dodanie pliku README.md i stworzenie commita.
     Stworzenie Pull Request oraz przetestowanie funkcji "Review".
-    Skonfigurowanie prostego workflow w GitHub Actions do automatycznego testowania kodu Python.</i>
+    Skonfigurowanie prostego workflow w GitHub Actions do automatycznego testowania kodu Python.
 
 Testowane funkcje
 
-    <i>Pull Request: Tworzenie, komentowanie, scalanie zmian.
+    Pull Request: Tworzenie, komentowanie, scalanie zmian.
     Review: Przypisywanie recenzenta, zatwierdzanie lub odrzucanie zmian.
-    GitHub Actions: Automatyzacja testów w języku Python.</i>
+    GitHub Actions: Automatyzacja testów w języku Python.
 
 Podsumowanie
 
-    <i>GitHub to narzędzie intuicyjne, które umożliwia łatwą współpracę nad projektami.
+    GitHub to narzędzie intuicyjne, które umożliwia łatwą współpracę nad projektami.
     Funkcje Pull Request oraz Review działają stabilnie i są wygodne do pracy zespołowej.
     GitHub Actions jest przydatne do automatyzacji procesów, takich jak testowanie kodu, co ułatwia zarządzanie większymi projektami.
-    Dokumentacja platformy jest dobrze zorganizowana, chociaż mogą pojawić się trudności w bardziej zaawansowanych konfiguracjach workflow.</i>
+    Dokumentacja platformy jest dobrze zorganizowana, chociaż mogą pojawić się trudności w bardziej zaawansowanych konfiguracjach workflow.
